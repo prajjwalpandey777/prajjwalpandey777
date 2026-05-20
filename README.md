@@ -13,7 +13,7 @@
 <h2>🌐 Connect with Me</h2>
 <div align="center">
 
-<p><a href="www.linkedin.com/in/prajjwal-pandey-0a3b83379"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajjwal-pandey-0a3b83379/)
 </div>
 
 <h2>🛠️ Skills &amp; Technologies</h2>
