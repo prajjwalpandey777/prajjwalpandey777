@@ -2,7 +2,7 @@
 
 <h1>Hi 👋, I&#39;m Prajjwal Pandey</h1>
 </div>
-🎓 AIML Student | VIT Bhopal University
+🎓 AIML Student | Frontend Developer | VIT Bhopal University
 <br>
 🚀 Currently exploring Web Development, JavaScript, and futuristic tech ideas
 <br>
